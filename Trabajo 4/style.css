@@ -1,0 +1,21 @@
+.box{
+  background-color: yellow;
+  width: 33%;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.box1{
+  padding: 10px;
+  border: solid red 5px;
+}
+
+.box2{
+  padding: 10px;
+  border: solid red 5px;
+}
+
+.box3{
+  padding: 10px;
+  border: solid red 5px;
+}
